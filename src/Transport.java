@@ -18,4 +18,4 @@ public String getValues() {
     return info + infoCoordinats;
    }
 }
-// строка тест
+// строка тест 2
